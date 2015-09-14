@@ -65,26 +65,23 @@ Students will be expected to write an original paper aimed at synthesizing phase
 This course requires a significant amount of writing, presentations, and collaboration outside of class. **Students will be expected to adhere to standards on Academic Integrity as outlined in the Bulletin.**
 Students requiring accommodations should consult with the Office of Disability Services.
 
+
 **Using git/github**   
 If you are new to git/github: you should first install git. You should sign up for a github account (if you don't have one) and email me your usernames. Please go over the first two tutorials below carefully. You can also look at the Github help page for other things like cheat sheets, etc.
 
-* Installing git
-
-OSX: https://code.google.com/p/git-osx-installer/downloads/list?can=3
-Windows: https://git-for-windows.github.io/
+* Installing git    
+OSX: https://code.google.com/p/git-osx-installer/downloads/list?can=3  
+Windows: https://git-for-windows.github.io/    
 Linux: http://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
-* Git tutorials
-
-Git Immersion: http://gitimmersion.com/
-Visual Git Reference: http://marklodato.github.io/visual-git-guide/index-en.html
+* Git tutorials     
+Git Immersion: http://gitimmersion.com/    
+Visual Git Reference: http://marklodato.github.io/visual-git-guide/index-en.html     
 Atlassian Tutorials: https://www.atlassian.com/git/tutorials/
 
-* Git resources
-
-Pro Git: https://progit.org/
-Github help: https://help.github.com/articles/good-resources-for-learning-git-and-github/
-
+* Git resources      
+Pro Git: https://progit.org/      
+Github help: https://help.github.com/articles/good-resources-for-learning-git-and-github/     
 
 
 **Tentative course syllabus**  
