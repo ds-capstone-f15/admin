@@ -67,7 +67,7 @@ Students requiring accommodations should consult with the Office of Disability S
 
 
 **Using git/github**   
-If you are new to git/github: you should first install git. You should sign up for a github account (if you don't have one) and email me your usernames. Please go over the first two tutorials below carefully. You can also look at the Github help page for other things like cheat sheets, etc.
+If you are new to git/github: you should first install git (see below). You should sign up for a github account if you don't have one and email me your usernames. Please go over the first two tutorials below carefully. You can also look at the Github help page for other things like cheat markdown basics, cheat sheets, etc.
 
 * Installing git    
 OSX: https://code.google.com/p/git-osx-installer/downloads/list?can=3  
