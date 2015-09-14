@@ -95,7 +95,7 @@ Github help: https://help.github.com/articles/good-resources-for-learning-git-an
   * Mon, 10/12: In class project presentations
   * Mon, 10/19: Invited lecture on ethics
 + Phase 4 (Weeks 7 & 8)  
-  * Mon, 10/26: NO CLASS () --- "Phases 1-3 Literature Review and Analysis" report due
+  * Mon, 10/26: NO CLASS (DSI colloquium) --- "Phases 1-3 Literature Review and Analysis" report due
   * Mon, 11/2: NO CLASS (academic holiday)
 + Phase 5 (Weeks 9 & 10)
   * Mon, 11/9: In class project presentations (mid-semester)
