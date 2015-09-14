@@ -14,23 +14,23 @@ This course provides a unique opportunity for students in the MS in Data Science
 
 Each team is supervised by a mentor as projects typically progress through sequential phases. Students will meet as a cohort once a week where we will share best practices, and discuss relevant readings on topics including (1) entrepreneurship, (2) ethics, especially the ethics of mathematical models and algorithms, (3) process and design thinking, (4) strategic thinking, and (5) project management. Students will be expected to meet as a group outside of class in order for project and required deliverables to take shape. It is up to the groups to manage their tasks and time effectively.
 
-**Phase 1:** (Weeks 1 & 2)  
+**Phase 1:** (Week 1)  
 Background and problem definition
 
-**Phase 2:** (Weeks 3 & 4)  
+**Phase 2:** (Weeks 2 & 3)  
 Data wrangling, munging and cleaning
 
-**Phase 3:** (Weeks 5 & 6)  
-Exploratory Data Analysis - Project Applications
+**Phase 3:** (Weeks 4 & 5)  
+Exploratory Data Analysis 
 
-**Phase 4:** (Weeks 7 & 8)   
-Coding prototypes of algorithms and models - Project Applications
+**Phase 4:** (Weeks 6 & 7 & 8)   
+Coding prototypes of algorithms and models
 
 **Phase 5:** (Weeks 9 & 10)   
-Data Visualization - Project Applications
+Data Visualization 
 
 **Phase 6:** (Week 11)   
-Reporting and communicating - Project Applications
+Reporting and communicating 
 
 **Phase 7:** (Week 12)    
 Productionizing any models or algorithms if applicable
@@ -85,17 +85,17 @@ Github help: https://help.github.com/articles/good-resources-for-learning-git-an
 
 
 ### Tentative course syllabus   
-+ Phase 1 (Weeks 1 & 2)
++ Phase 1 (Week 1)
   * Mon, 9/14: Course overview, project assignments, project descriptions; familiarize yourselves with git/github
++ Phase 2 (Weeks 2 & 3)
   * Mon, 9/21: Invited lecture on data cleaning
-+ Phase 2 (Weeks 3 & 4)
   * Mon, 9/18: In class project presentations
++ Phase 3 (Weeks 4 & 5)
   * Mon, 10/5: Invited lecture on exploratory data analysis
-+ Phase 3 (Weeks 5 & 6)
   * Mon, 10/12: In class project presentations
-  * Mon, 10/19: Invited lecture on ethics
-+ Phase 4 (Weeks 7 & 8)  
-  * Mon, 10/26: NO CLASS (DSI colloquium) --- "Phases 1-3 Literature Review and Analysis" report due
++ Phase 4 (Weeks 6 & 7 & 8)  
+  * Mon, 10/19: Invited lecture on ethics --- "Phases 1-3 Literature Review and Analysis" report due
+  * Mon, 10/26: NO CLASS (DSI colloquium) 
   * Mon, 11/2: NO CLASS (academic holiday)
 + Phase 5 (Weeks 9 & 10)
   * Mon, 11/9: In class project presentations (mid-semester)
