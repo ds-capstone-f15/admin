@@ -1,6 +1,9 @@
 ## ENGI W4800 (3): Data Science Capstone & Ethics
 ### Instructor: Eleni Drinea
 
+*Time:* Mon, 6:10-7:25pm
+*Location:* Pupin 325
+*Teaching Assistant:* venkata Naga Sreeram Joopudi, vnj2101@columbia.edu, Office Hours: TBA
 *Department:* Engineering  
 *Title:* Data Science Capstone & Ethics  
 *Credits*: 3  
