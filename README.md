@@ -16,7 +16,7 @@ This course provides a unique opportunity for students in the MS in Data Science
 
 *Teamwork:* four students will work together as a team on each project; groups will be selected by me to ensure group diversity based on student background and educational/professional experiences and interests in the available projects.
 
-Each team is supervised by a mentor as projects typically progress through sequential phases. Students will meet as a cohort once a week where we will share best practices, and discuss relevant readings on topics including (1) entrepreneurship, (2) ethics, especially the ethics of mathematical models and algorithms, (3) process and design thinking, (4) strategic thinking, and (5) project management. Students will be expected to meet as a group outside of class in order for project and required deliverables to take shape. It is up to the groups to manage their tasks and time effectively.
+Each team is supervised by a mentor as projects typically progress through sequential phases. Students will meet as a cohort once a week where we will often share best practices, and discuss topics including (1) entrepreneurship, (2) ethics, especially the ethics of mathematical models and algorithms, (3) process and design thinking, and (4) project management. Students will be expected to meet as a group outside of class in order for project and required deliverables to take shape. It is up to the groups to manage their tasks and time effectively.
 
 **Phase 1:** (Week 1)  
 Background and problem definition
