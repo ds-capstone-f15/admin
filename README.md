@@ -2,8 +2,11 @@
 ### Instructor: Eleni Drinea
 
 *Department:* Engineering
+
 *Title:* Data Science Capstone & Ethics
+
 *Credits*: 3
+
 *Prerequisite(s):* Faculty and approval-STAT W4105, CSOR 4246, STAT W4108, or equivalent
 
 ### Overview
