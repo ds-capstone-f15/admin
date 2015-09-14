@@ -49,7 +49,7 @@ Productionizing any models or algorithms if applicable
 **Course Evaluation:** Late assignments (project presentations and reports) are not accepted without valid rationale.
 
 *In class Project Presentations, 30%*    
-Students will be expected to provide updates to the entire class on project development, insights, and next steps approximately every other week. Evaluation will be based on clear and concise thinking in alignment with course goals and quality of class presentations. More information about expectations will be discussed in class.
+Teams will be expected to provide updates to the entire class on project development, insights, and next steps approximately every other week. Evaluation will be based on clear and concise thinking in alignment with course goals and quality of class presentations. More information about expectations will be discussed in class.
 
 
 
