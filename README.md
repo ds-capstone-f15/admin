@@ -99,11 +99,11 @@ Github help: https://help.github.com/articles/good-resources-for-learning-git-an
   * Mon, 11/2: NO CLASS (academic holiday)
 + Phase 5 (Weeks 9 & 10)
   * Mon, 11/9: In class project presentations (mid-semester)
-  * Mon, 11/16: Invited lecture on project management
+  * Mon, 11/16: Invited lecture on entrepreneurship
 + Phase 6 (Week 11)
   * Mon, 11/23: In class project presentations 
 + Phase 7 (Week 12)
-  * Mon, 11/30: Invited lecture on entrepreneurship --- "Phases 4-6 Literature Review and Analysis" report due
+  * Mon, 11/30: Invited lecture on project management --- "Phases 4-6 Literature Review and Analysis" report due
 + Mon, 12/7: In class project presentations 
 + TBA, 12/14-18: Final project presentations & final reports due
 
