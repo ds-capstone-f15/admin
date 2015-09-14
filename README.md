@@ -49,7 +49,7 @@ Productionizing any models or algorithms if applicable
 **Course Evaluation:** Late assignments (project presentations and reports) are not accepted without valid rationale.
 
 *In class Project Presentations, 30%*    
-Teams will be expected to provide updates to the entire class on project development, insights, and next steps approximately every other week. Evaluation will be based on clear and concise thinking in alignment with course goals and quality of class presentations. More information about expectations will be discussed in class.
+Teams will be expected to provide updates to the entire class on project development, insights, and next steps for 20 minutes approximately every other week. Evaluation will be based on clear and concise thinking in alignment with course goals and quality of class presentations. More information about expectations will be discussed in class.
 
 
 
@@ -88,7 +88,7 @@ Github help: https://help.github.com/articles/good-resources-for-learning-git-an
 + Phase 1 (Week 1)
   * Mon, 9/14: Course overview, project assignments, project descriptions; familiarize yourselves with git/github
 + Phase 2 (Weeks 2 & 3)
-  * Mon, 9/21: Invited lecture on data cleaning
+  * Mon, 9/21: Invited lecture on data cleaning or technical lecture
   * Mon, 9/18: In class project presentations
 + Phase 3 (Weeks 4 & 5)
   * Mon, 10/5: Invited lecture on exploratory data analysis
