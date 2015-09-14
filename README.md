@@ -65,3 +65,26 @@ Students will be expected to write an original paper aimed at synthesizing phase
 This course requires a significant amount of writing, presentations, and collaboration outside of class. **Students will be expected to adhere to standards on Academic Integrity as outlined in the Bulletin.**
 Students requiring accommodations should consult with the Office of Disability Services.
 
+
+**Tentative course syllabus**  
++ Phase 1 (Weeks 1 & 2)
+  * Mon, 9/14: Course overview, project assignments, project descriptions
+  * Mon, 9/21: Invited lecture on data cleaning
++ Phase 2 (Weeks 3 & 4)
+  * Mon, 9/18: In class project presentations
+  * Mon, 10/5: Invited lecture on exploratory data analysis
++ Phase 3 (Weeks 5 & 6)
+  * Mon, 10/12: In class project presentations
+  * Mon, 10/19: Invited lecture on ethics
++ Phase 4 (Weeks 7 & 8)  
+  * Mon, 10/26: NO CLASS () --- "Phases 1-3 Literature Review and Analysis" report due
+  * Mon, 11/2: NO CLASS (academic holiday)
++ Phase 5 (Weeks 9 & 10)
+  * Mon, 11/9: In class project presentations (mid-semester)
+  * Mon, 11/16: Invited lecture on project management
++ Phase 6 (Week 11)
+  * Mon, 11/23: In class project presentations 
++ Phase 7 (Week 12)
+  * Mon, 11/30: Invited lecture on entrepreneurship --- "Phases 4-6 Literature Review and Analysis" report due
++ Mon, 12/7: In class project presentations 
++ TBA, 12/14-18: Final project presentations & final reports due
