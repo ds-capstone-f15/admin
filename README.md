@@ -66,7 +66,7 @@ This course requires a significant amount of writing, presentations, and collabo
 Students requiring accommodations should consult with the Office of Disability Services.
 
 
-**Using git/github**   
+### Using git/github    
 If you are new to git/github: you should first install git (see below). You should sign up for a github account if you don't have one and email me your usernames. Please go over the first two tutorials below carefully. You can also look at the Github help page for other things like cheat markdown basics, cheat sheets, etc.
 
 * Installing git    
@@ -84,7 +84,7 @@ Pro Git: https://progit.org/
 Github help: https://help.github.com/articles/good-resources-for-learning-git-and-github/     
 
 
-**Tentative course syllabus**  
+### Tentative course syllabus   
 + Phase 1 (Weeks 1 & 2)
   * Mon, 9/14: Course overview, project assignments, project descriptions; familiarize yourselves with git/github
   * Mon, 9/21: Invited lecture on data cleaning
