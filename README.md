@@ -2,11 +2,8 @@
 ### Instructor: Eleni Drinea
 
 *Department:* Engineering
-
 *Title:* Data Science Capstone & Ethics
-
 *Credits*: 3
-
 *Prerequisite(s):* Faculty and approval-STAT W4105, CSOR 4246, STAT W4108, or equivalent
 
 ### Overview
@@ -47,16 +44,18 @@ Productionizing any models or algorithms if applicable
 + NYC Department of Education
 + Google
 + Amazon
++ Synergic Partners
++ Goldman Sachs
 
-**Course Evaluation:** Late assignments are not accepted without valid rationale and supporting documentation.
+**Course Evaluation:** Late assignments (project presentations and reports) are not accepted without valid rationale.
 
-*Learning Journal (Project Progress Reports), 30%*
-Students will maintain and submit a learning journal; individual reports (once a week, 10%) and group reports (every two weeks, 20%). Journals will track project development, insights, and next steps. During class, students will be expected to provide updates to the entire class as a means to discuss projects under the guidance of required course reading and topics. Evaluation will be based on presentations. Simply turning in assignment is not sufficient. More information about expectations will be discussed in class.
+*In class Project Presentations, 30%*
+Students will be expected to provide updates to the entire class on project development, insights, and next steps approximately every other week. Evaluation will be based on clear and concise thinking in alignment with course goals and quality of class presentations. More information about expectations will be discussed in class.
 
 
 
 *Final Projects (Presentation & Reports), 50%*
-The bi-monthly group reports will be essential in pulling together the final project. The final project is not just a revised set of group reports or individual assignments but rather a culmination of how the project synthesizes the statistical, computational, engineering and social challenges involved in solving complex real-world problems. Grade will be determined by the quality of the report and presentation. Keep in mind that I may not be the only one determining the quality. You will be expected to provide a self-assessment of your contributions to the work and that of your peers. Furthermore, your mentors (faculty and/or industry professionals) may be in attendance to your group presentations. More information about expectations and deadlines will be discussed in class.
+The bi-monthly group reports (see below)  will be essential in pulling together the final project. The final project should be a culmination of how the project synthesizes the statistical, computational, engineering and social challenges involved in solving complex real-world problems. Grade will be determined by the quality of the report and presentation. Keep in mind that I may not be the only one determining the quality. You will be expected to provide a self-assessment of your contributions to the work and that of your peers. Furthermore, your mentors (faculty and/or industry professionals) may be in attendance to your group presentations. More information about expectations and deadlines will be discussed in class.
 
 *Phases 1-3 Literature Review and Analysis, 10%*
 Students will be expected to write an original paper aimed at synthesizing phases 1-3 course materials while discussing the implications of ethics and data science. More information about expectations and deadlines will be discussed in class,
