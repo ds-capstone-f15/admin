@@ -61,10 +61,10 @@ Teams will be expected to provide updates to the entire class on project develop
 The bi-monthly group reports (see below)  will be essential in pulling together the final project. The final project should be a culmination of how the project synthesizes the statistical, computational, engineering and social challenges involved in solving complex real-world problems. Grade will be determined by the quality of the report and presentation (approximate length of the final report: 10-12 pages). Each group is expected to give a 40-minute presentation with each group member presenting for 10 minutes. Keep in mind that I may not be the only one determining the quality. You will be expected to provide a self-assessment of your contributions to the work and that of your peers. Furthermore, your mentors (faculty and/or industry professionals) may be in attendance to your group presentations. More information about expectations and deadlines will be discussed in class.
 
 *Phases 1-3 Literature Review and Analysis, 10%*    
-Students will be expected to write an original paper aimed at synthesizing phases 1-3 course materials while discussing the implications of ethics and data science. Approximate length of the report: 2-5 pages.
+Students will be expected to write an original paper aimed at synthesizing phases 1-3 course materials. Approximate length of the report: 2-5 pages.
 
 *Phases 4-6 Literature Review and Analysis, 10%*     
-Students will be expected to write an original paper aimed at synthesizing phases 4-6 course materials while discussing the implications of entrepreneurship and data science. Approximate length of the report: 2-5 pages.
+Students will be expected to write an original paper aimed at synthesizing phases 4-6 course materials. Approximate length of the report: 2-5 pages.
 
 This course requires a significant amount of writing, presentations, and collaboration outside of class. **Students will be expected to adhere to standards on Academic Integrity as outlined in the Bulletin.**
 Students requiring accommodations should consult with the Office of Disability Services.
