@@ -7,7 +7,7 @@
 *Department:* Engineering    
 *Title:* Data Science Capstone & Ethics  
 *Credits*: 3  
-*Prerequisite(s):* Instructor's approval. STAT W4105, CSOR 4246, STAT W4702, COMS 4121, COMS 4721, COMS 4701 or equivalent.     
+*Prerequisites:* Instructor's approval. STAT W4105, CSOR 4246, STAT W4702, COMS 4121, COMS 4721, COMS 4701 or equivalent.     
 *Teaching assistant:* venkata Naga Sreeram Joopudi, vnj2101@columbia.edu
 
 ### Overview
