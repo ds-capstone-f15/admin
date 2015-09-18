@@ -92,8 +92,8 @@ Github help: https://help.github.com/articles/good-resources-for-learning-git-an
 + Phase 1 (Week 1)
   * Mon, 9/14: Course overview, project assignments, project descriptions; familiarize yourselves with git/github
 + Phase 2 (Weeks 2 & 3)
-  * Mon, 9/21: Invited lecture on data cleaning or technical lecture
-  * Mon, 9/18: In class project presentations
+  * Mon, 9/21: Tutorial on NLTK
+  * Mon, 9/28: In class project presentations
 + Phase 3 (Weeks 4 & 5)
   * Mon, 10/5: Invited lecture on exploratory data analysis
   * Mon, 10/12: In class project presentations
