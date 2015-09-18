@@ -110,6 +110,5 @@ Github help: https://help.github.com/articles/good-resources-for-learning-git-an
   * Mon, 11/30: Invited lecture on project management --- "Phases 4-6 Literature Review and Analysis" report due
 + Mon, 12/7: In class project presentations 
 + TBA, 12/14-18: Final project presentations & final reports due
-
-### Project descriptions     
+   
 
