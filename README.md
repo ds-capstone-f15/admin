@@ -3,12 +3,13 @@
 
 *Time:* Mon, 6:10-7:25pm    
 *Location:* Pupin 325   
-*Office Hours:* TBA    
+*Office Hours:* instead of office hours, we'll be holding individual group meetings every week     
 *Department:* Engineering    
 *Title:* Data Science Capstone & Ethics  
 *Credits*: 3  
 *Prerequisites:* Instructor's approval. STAT W4105, CSOR 4246, STAT W4702, COMS 4121, COMS 4721, COMS 4701 or equivalent.     
-*Teaching assistant:* venkata Naga Sreeram Joopudi, vnj2101@columbia.edu
+*Teaching assistant:* venkata Naga Sreeram Joopudi, vnj2101@columbia.edu   
+
 
 ### Overview
 
