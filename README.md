@@ -3,7 +3,7 @@
 
 *Time:* Mon, 6:10-7:25pm    
 *Location:* Pupin 325   
-*Office Hours:* instead of office hours, we'll be holding individual group meetings every week     
+*Office Hours:*  we'll be holding individual group meetings every week, in place of office hours 
 *Department:* Engineering    
 *Title:* Data Science Capstone & Ethics  
 *Credits*: 3  
