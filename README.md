@@ -99,17 +99,17 @@ Github help: https://help.github.com/articles/good-resources-for-learning-git-an
   * Mon, 10/5: Invited lecture on exploratory data analysis
   * Mon, 10/12: In class project presentations
 + Phase 4 (Weeks 6 & 7 & 8)  
-  * Mon, 10/19: Invited lecture TBA --- "Phases 1-3 Literature Review and Analysis" report due
-  * Mon, 10/26: NO CLASS (DSI colloquium) 
+  * Mon, 10/19: Invited lecture by Prof. Chris Wiggins
+  * Mon, 10/26: NO CLASS (DSI colloquium)  --- "Phases 1-3 Literature Review and Analysis" report due
   * Mon, 11/2: NO CLASS (academic holiday)
 + Phase 5 (Weeks 9 & 10)
   * Mon, 11/9: In class project presentations (mid-semester)
-  * Mon, 11/16: Invited lecture TBA
+  * Mon, 11/16: No class
 + Phase 6 (Week 11)
-  * Mon, 11/23: In class project presentations 
+  * Mon, 11/23: Invited lecture on Topic Modeling: Prof. John Paisley
 + Phase 7 (Week 12)
-  * Mon, 11/30: Invited lecture TBA --- "Phases 4-6 Literature Review and Analysis" report due
-+ Mon, 12/7: In class project presentations 
+  * Mon, 11/30: Invited lecture on entrepreneurship: Mohamed AlTantawy
++ Mon, 12/7: In class project presentations --- "Phases 4-6 Literature Review and Analysis" report due
 + TBA, 12/14-18: Final project presentations & final reports due
    
 
