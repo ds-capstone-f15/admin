@@ -3,8 +3,8 @@
 
 *Time:* Mon, 6:10-7:25pm    
 *Location:* Pupin 325   
-*Office Hours:*  we'll be holding individual group meetings every week, in place of office hours 
-*Department:* Engineering    
+*Office Hours:*  we'll be holding 30min-1h meetings with each group every week, in place of office hours        
+*Department:* Engineering      
 *Title:* Data Science Capstone & Ethics  
 *Credits*: 3  
 *Prerequisites:* Instructor's approval. STAT W4105, CSOR 4246, STAT W4702, COMS 4121, COMS 4721, COMS 4701 or equivalent.     
